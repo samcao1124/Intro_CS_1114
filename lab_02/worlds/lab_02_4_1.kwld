@@ -1,0 +1,80 @@
+1-1-east-inf
+streets 10
+
+# border
+northsouthwalls 10 1 10
+eastwestwalls 10 1 10
+
+# track perimeter
+eastwestwalls 1 2 9
+northsouthwalls 1 2 9
+eastwestwalls 9 2 9
+northsouthwalls 9 2 7
+northsouthwalls 9 9 9
+
+# spiral walls
+eastwestwalls 8 3 9
+eastwestwalls 7 4 9
+
+northsouthwalls 2 3 8
+northsouthwalls 3 4 7
+
+eastwestwalls 2 3 8
+eastwestwalls 3 4 7
+
+northsouthwalls 8 3 6
+northsouthwalls 7 4 5
+
+eastwestwalls 6 5 8
+eastwestwalls 5 6 7
+
+northsouthwalls 4 5 6
+northsouthwalls 5 5 5
+
+eastwestwalls 4 5 5
+
+# spiral fill
+northsouthwalls 2 9 9
+northsouthwalls 3 9 9
+northsouthwalls 4 9 9
+northsouthwalls 5 9 9
+northsouthwalls 6 9 9
+northsouthwalls 7 9 9
+northsouthwalls 8 9 9
+
+northsouthwalls 2 2 2
+northsouthwalls 3 2 2
+northsouthwalls 4 2 2
+northsouthwalls 5 2 2
+northsouthwalls 6 2 2
+northsouthwalls 7 2 2
+northsouthwalls 8 2 2
+
+northsouthwalls 4 7 7
+northsouthwalls 5 7 7
+northsouthwalls 6 7 7
+northsouthwalls 7 7 7
+northsouthwalls 8 7 7
+
+northsouthwalls 4 4 4
+northsouthwalls 5 4 4
+northsouthwalls 6 4 5
+
+eastwestwalls 8 2 2
+eastwestwalls 7 2 2
+eastwestwalls 6 2 2
+eastwestwalls 5 2 2
+eastwestwalls 4 2 2
+eastwestwalls 3 2 2
+eastwestwalls 2 2 2
+
+eastwestwalls 4 4 4
+eastwestwalls 5 4 4
+eastwestwalls 6 4 4
+eastwestwalls 4 6 7
+
+eastwestwalls 2 9 9
+eastwestwalls 3 9 9
+eastwestwalls 4 9 9
+eastwestwalls 5 9 9
+eastwestwalls 6 9 9

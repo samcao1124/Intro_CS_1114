@@ -1,0 +1,27 @@
+1-1-east-inf
+streets 9
+
+# border
+northsouthwalls 9 1 9
+eastwestwalls 9 1 9
+
+# track perimeter
+eastwestwalls 1 2 8
+northsouthwalls 1 2 8
+eastwestwalls 8 2 8
+northsouthwalls 6 2 8
+
+# track fill
+eastwestwalls 2 2 8
+eastwestwalls 3 2 8
+eastwestwalls 4 2 8
+eastwestwalls 5 2 8
+eastwestwalls 6 2 8
+eastwestwalls 7 2 8
+northsouthwalls 2 2 8
+northsouthwalls 3 2 8
+northsouthwalls 4 2 8
+northsouthwalls 5 2 8
+northsouthwalls 6 2 8
+northsouthwalls 7 2 8
+northsouthwalls 8 2 8
